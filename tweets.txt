@@ -1,0 +1,1812 @@
+{
+    "data": [
+        {
+            "edit_history_tweet_ids": [
+                "1611777711495860227"
+            ],
+            "id": "1611777711495860227",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611776322723889153"
+            ],
+            "id": "1611776322723889153",
+            "text": "@evans_lwande We will know the results of Genetically Modified Food when they manifest in your genetically modified grandchildren"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611754519729438720"
+            ],
+            "id": "1611754519729438720",
+            "text": "@_TheRealTony3_ @MercedesBenz @Tesla @elonmusk @SawyerMerritt 2027 is too late for old schools, such as GM, Food etc."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611752473043079173"
+            ],
+            "id": "1611752473043079173",
+            "text": "@foodfondler Gm gm food"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611751271031005185"
+            ],
+            "id": "1611751271031005185",
+            "text": "@foodfondler Gm food!!!"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611749944767180804"
+            ],
+            "id": "1611749944767180804",
+            "text": "@Bill74227214 Fluoride? GM food / Hypnosis / indoctrination ?"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611743949000957952"
+            ],
+            "id": "1611743949000957952",
+            "text": "@randall_almeida GM! Food for thought for sure!"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611739930727784450"
+            ],
+            "id": "1611739930727784450",
+            "text": "@cepdood Gm food"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611738431549210625"
+            ],
+            "id": "1611738431549210625",
+            "text": "@bra_max33 I Mean The Genetically Modified Food Is killing Us...."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611711796821348352"
+            ],
+            "id": "1611711796821348352",
+            "text": "In October, India granted environmental clearance for indigenously developed GM mustard seeds, paving the way for the commercial use of its first GM food crop.\n\nhttps://t.co/X160o0yksO"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611695785015664641"
+            ],
+            "id": "1611695785015664641",
+            "text": "@boguswaves humans have cultivated and bred plants for as long as agriculture exists, if done correctly there is nothing wrong with it, same holds true for manipulating it in a lab (GM food).\nThere are very real dangers to bio-engineering."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611672034714726400"
+            ],
+            "id": "1611672034714726400",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611656379613483009"
+            ],
+            "id": "1611656379613483009",
+            "text": "So sad that the GoI, @MoHFW_INDIA and @PMOIndia are actively involved in this GM food scam. Why should anyone trust this govt? https://t.co/HF0um2wT75"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611640322488139777"
+            ],
+            "id": "1611640322488139777",
+            "text": "This Twitter thread for Full story of India's GM regulatory system\n- Severely undermined\n-15 major violations  \n- GM food crops being pushed w/o proper indpdt testing &amp; oversight\n@Kisanektamorcha @_YogendraYadav  @Devinder_Sharma @medhanarmada @Jairam_Ramesh @RahulGandhi https://t.co/Is9MbPTBLM"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611633496040083456"
+            ],
+            "id": "1611633496040083456",
+            "text": "These questions are: If you have heard from various sources a number of genetically modified food on the negative comments, you will have th"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611611637173325826"
+            ],
+            "id": "1611611637173325826",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611607729680027650"
+            ],
+            "id": "1611607729680027650",
+            "text": "@LiveLifeLuvWell @4mins4roughing @davenewworld_2 One time I attended a protest against genetically modified food. I was shocked how these people were grabbing signs away from counter protesters and surrounding them like a mob. Literally just GMOs. I'm the most woke lefty in the world but I would put on the red hat here."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611584328831467520"
+            ],
+            "id": "1611584328831467520",
+            "text": "@MartinSLewis Enjoy the GM food"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611573939775631361"
+            ],
+            "id": "1611573939775631361",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611557905429585921"
+            ],
+            "id": "1611557905429585921",
+            "text": "I\u2019m beyond Excited to announce that I have been promoted to ETL GM &amp; Food.\n\nI truly cherish everything I have been taught, even when I couldn\u2019t see it. Thankyou for believing in me &amp; helping me get to the next chapter in my Journey! @HaticAdna @TargetTat @heit_tim @BreeFromTarget https://t.co/VPELl0rcKF"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611552362602319873"
+            ],
+            "id": "1611552362602319873",
+            "text": "@catturd2 Th\u00e9 only reason we aren\u2019t knocked up already is the genetically modified food and vaccine"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611535305705676801"
+            ],
+            "id": "1611535305705676801",
+            "text": "@champtgram GM, and I ain\u2019t talking about genetically modified food"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611533154665349127"
+            ],
+            "id": "1611533154665349127",
+            "text": "The genetically modified food is making everyone fat. Lifestyles have changed since that time. https://t.co/zg0ZJ8d7qa"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611531060067581953"
+            ],
+            "id": "1611531060067581953",
+            "text": "@ricwe123 No genetically modified food"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611490829750919168"
+            ],
+            "id": "1611490829750919168",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611476521025433600"
+            ],
+            "id": "1611476521025433600",
+            "text": "@EvaVlaar I wonder how far these 'scientists' took the research? https://t.co/xJDRq3OVHY"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611474793726988299"
+            ],
+            "id": "1611474793726988299",
+            "text": "@JoshuaKnaak Under EU law any genetically modified food must be identified on the label so consumers know. GMO processes must also be authorized by the EU after a risk assessment in order to be allowed to be sold on European grocery store shelves."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611419166225076224"
+            ],
+            "id": "1611419166225076224",
+            "text": "RT @NorthBritannia: @ConHome @RishiSunak @GeorgeFreemanMP @Keir_Starmer British public don\u2019t want genetically modified food, US computer pr\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611407889931071489"
+            ],
+            "id": "1611407889931071489",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611377699850698760"
+            ],
+            "id": "1611377699850698760",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611370059305476096"
+            ],
+            "id": "1611370059305476096",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611369338711474177"
+            ],
+            "id": "1611369338711474177",
+            "text": "@foodfondler Gm Food! Let\u2019s be the good vibes we wanna see in the world\ud83e\udd73"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611357901574086661"
+            ],
+            "id": "1611357901574086661",
+            "text": "@ConHome @RishiSunak @GeorgeFreemanMP @Keir_Starmer British public don\u2019t want genetically modified food, US computer programmer called Gates involved in animal vaccines, science, farming, food chain. Is there anything you people wouldn\u2019t sell to highest bidder?  You have become dangerous globalists, who don\u2019t act in our interests"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611346882520817666"
+            ],
+            "id": "1611346882520817666",
+            "text": "@NoContextBrits Genetically modified food..."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611331019042430977"
+            ],
+            "id": "1611331019042430977",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611304590137520131"
+            ],
+            "id": "1611304590137520131",
+            "text": "No GM food. https://t.co/VlqzB2IfwB"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611290961677516800"
+            ],
+            "id": "1611290961677516800",
+            "text": "@FoodLiesOrg Guess they didn\u2019t have fast food back then and gm food"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611287078293360641"
+            ],
+            "id": "1611287078293360641",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611274199003271169"
+            ],
+            "id": "1611274199003271169",
+            "text": "'Have I grown breasts?' - Kenya\u2019s President William Ruto defends the country\u2019s move to import genetically modified (GM) food, assuring Kenyans that it was safe, https://t.co/mA0hnbXo6s"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611252420239040512"
+            ],
+            "id": "1611252420239040512",
+            "text": "Let's hope all producers and retailers of non-GM food have the good sense to label it as such.\nAnd that British producers remain GM-free, to stand apart from the flood of GM food that will arrive from the US. https://t.co/950qSzbJnN"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611251328361140224"
+            ],
+            "id": "1611251328361140224",
+            "text": "@BBCWorld LOL just lol, mrna vaccines seem to infect more than they protect.\nPeople refuse GM food but are keen to let the same big companies genetically modify them, total clown world."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611224989122064384"
+            ],
+            "id": "1611224989122064384",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611203937327276032"
+            ],
+            "id": "1611203937327276032",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611188856795299841"
+            ],
+            "id": "1611188856795299841",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611178678050000906"
+            ],
+            "id": "1611178678050000906",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611174376635768832"
+            ],
+            "id": "1611174376635768832",
+            "text": "RT @JoeHarris1971: @molsjames A genetically modified food company promoting a genetic therapy vaccine. How ironic."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611174364283654151"
+            ],
+            "id": "1611174364283654151",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611174299745796096"
+            ],
+            "id": "1611174299745796096",
+            "text": "@molsjames A genetically modified food company promoting a genetic therapy vaccine. How ironic."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611166776825647106"
+            ],
+            "id": "1611166776825647106",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611160834985832455"
+            ],
+            "id": "1611160834985832455",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611141700403228672"
+            ],
+            "id": "1611141700403228672",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611132879504900096"
+            ],
+            "id": "1611132879504900096",
+            "text": "@DrAseemMalhotra Wait till imperial master of global hegemony is done \"experimenting\" with the #mRNA molecule added into #bioengineered/genetically modified food. #McDonalds will likely be one of the first fast-food chains to profiteer off  poisoning humanity."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611107804307234816"
+            ],
+            "id": "1611107804307234816",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611106310082252804"
+            ],
+            "id": "1611106310082252804",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611105832451837952"
+            ],
+            "id": "1611105832451837952",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611105421611114496"
+            ],
+            "id": "1611105421611114496",
+            "text": "Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611097884610691072"
+            ],
+            "id": "1611097884610691072",
+            "text": "RT @awokeb0t: Seeds of Deception is a terrifying book about what's really going on with genetically modified food. A must read for anyone w\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611090715538251807"
+            ],
+            "id": "1611090715538251807",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9uK7O"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611070864132567041"
+            ],
+            "id": "1611070864132567041",
+            "text": "'Have I grown breasts?' - Ruto defends GM food.Kenya\u2019s President William Ruto has defended the country\u2019s move to import genetically modified (GM) food, assuring Kenyans that it was safe, https://t.co/SKnwM1vOUz"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611056215622049793"
+            ],
+            "id": "1611056215622049793",
+            "text": "RT @JamesKahongeh_: President William Ruto\u2019s \u201csijamea matiti\u201d example was extreme. \nBut he is RIGHT.\nThe bulk of scientific evidence shows\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611056047438848000"
+            ],
+            "id": "1611056047438848000",
+            "text": "Genetically Modified food safe to eat, says Kenya\u2019s President\u00a0Ruto https://t.co/50jUhZnXaL"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611051824009863168"
+            ],
+            "id": "1611051824009863168",
+            "text": "RT @awokeb0t: Seeds of Deception is a terrifying book about what's really going on with genetically modified food. A must read for anyone w\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611049470359134208"
+            ],
+            "id": "1611049470359134208",
+            "text": "\u2018Have I grown breasts?\u2019 \u2013 Kenya\u2019s President defends import of genetically modified food https://t.co/y3picMRQiJ"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611044932210524160"
+            ],
+            "id": "1611044932210524160",
+            "text": "@DDfarmerette oh hell no, I know in Germany genetically modified food was forbidden, wouldn't this qualify as modified too?"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611034791977033729"
+            ],
+            "id": "1611034791977033729",
+            "text": "In this study we get an understanding of the consumers relationship between emotion and genetically modified food acceptance. https://t.co/fPhXEBfEtT"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611021858916163586"
+            ],
+            "id": "1611021858916163586",
+            "text": "I\u2019m generally pro GM food, but understand skepticism and this is not how you win trust. https://t.co/jGus0XUjjy"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611014760862187520"
+            ],
+            "id": "1611014760862187520",
+            "text": "RT @awokeb0t: Seeds of Deception is a terrifying book about what's really going on with genetically modified food. A must read for anyone w\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611013855676604417"
+            ],
+            "id": "1611013855676604417",
+            "text": "RT @awokeb0t: Seeds of Deception is a terrifying book about what's really going on with genetically modified food. A must read for anyone w\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611012056357937155"
+            ],
+            "id": "1611012056357937155",
+            "text": "Seeds of Deception is a terrifying book about what's really going on with genetically modified food. A must read for anyone who eats. It's an eye-opener that reads like a crime novel, but unfortunately it's all real crime. Easy to read and informative: https://t.co/Gx4Pp0Ra4l #ad https://t.co/uxyFI17uVz"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611007662526959616"
+            ],
+            "id": "1611007662526959616",
+            "text": "@foodfondler Gm Food! An absolute pleasure as always!"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611007604636934150"
+            ],
+            "id": "1611007604636934150",
+            "text": "Americans are kept in the dark about what they are eating and drinking, while 38 different countries in Europe have banned Genetically Modified food. https://t.co/BIS81Kb5EG"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611000172603133952"
+            ],
+            "id": "1611000172603133952",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610994286534819840"
+            ],
+            "id": "1610994286534819840",
+            "text": "@Annakhait @FoodLiesOrg And genetically modified food as well"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610992402684157952"
+            ],
+            "id": "1610992402684157952",
+            "text": "@THA_STYLIST In my opinion\u2026It\u2019s the genetically modified food that they\u2019re eating. The lack of exercise and no vitamin intake also plays a major role!"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610991596631105536"
+            ],
+            "id": "1610991596631105536",
+            "text": "Humans have consumed genetically modified food for thousands of years. That should not be a cause for alarm. The real question should be whether artificial genetic modification could introduce unseen risks as opposed to natural genetic modification (e.g selective breeding)."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610986652754710528"
+            ],
+            "id": "1610986652754710528",
+            "text": "RT @LDMSinger1830: @FoodLiesOrg They weren't eating massively genetically modified food yet. If they were, it was still in early stages."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610985097075003392"
+            ],
+            "id": "1610985097075003392",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610982271024234496"
+            ],
+            "id": "1610982271024234496",
+            "text": "https://t.co/kLeTM6M519 if the FDA doesn't recommend taking this orally due to side effects, why do they turn a blind eye to the side effects of genetically modified food??"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610979705427210241"
+            ],
+            "id": "1610979705427210241",
+            "text": "It's about human psychology.\nGMO means Genetically Modified Food.\nWhat is the repercussion of swallowing the Genetics?"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610972233849004038"
+            ],
+            "id": "1610972233849004038",
+            "text": "Vandana Shiva now on climate treaties~ article 93 on GM food &amp; land grabs  Q &amp; A ORFC23 #realfarming #agroecology #foodsovereignty The importance on regenerating the soil &amp; preventing the \u201cdivide &amp; rule mentality.\u201d"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610972076994883584"
+            ],
+            "id": "1610972076994883584",
+            "text": "If kenya were to import GMO food, there should be a request to ban use of antibiotic resistance marker genes in GM food, as the risk to human health from antibiotic resistance developing in microorganisms is one of the major public health threats that will be faced.@WilliamsRuto"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610950501717413888"
+            ],
+            "id": "1610950501717413888",
+            "text": "\"..it is\n\u2018scientifically unjustifiable\u2019 to presume that GM foods are safe without rigorous scientific\ntesting and that the \u2018default prediction\u2019 for every GM food should be that the introduction of\na new gene will cause \u2018unanticipated changes\u2019 in the expression of other genes,..\""
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610949829970268160"
+            ],
+            "id": "1610949829970268160",
+            "text": "\"It is often claimed that \u2018trillions of GM meals\u2019 have been eaten in the US with no ill effects.\nHowever, no epidemiological studies in human populations have been carried out to establish\nwhether there are any health effects associated with GM food consumption\""
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610945287845195776"
+            ],
+            "id": "1610945287845195776",
+            "text": "@Kenyans GM foods are big business. If you grow GM food you CANNOT use its seed to propagate food. You are forced to buy seeds from retailers. Read the book SEEDS."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610938766998343680"
+            ],
+            "id": "1610938766998343680",
+            "text": "@CarolAnneHalpi1 @thecoastguy Yes, this genetically modified food that Bill Gates and Prince Charles (why the donated money was from Tony Blair) are interested in feeding the masses.  Has to be funded by grants, it is so good for the masses and our countries and planet."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610934980720398336"
+            ],
+            "id": "1610934980720398336",
+            "text": "The west consume processed food eat organic food. Why should Africa be willing to import Genetically Modified Food (GMO) and pay for it at that!! Wacheni mchezo."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610926297403822082"
+            ],
+            "id": "1610926297403822082",
+            "text": "Scientific authorities around the world, such as the US National Academy of Sciences, United Nations Food and Agriculture Organization ... have analysed thousands of scientific studies and concluded that\u00a0GM food crops do not pose any risk to people, animals or the environment."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610924805582110720"
+            ],
+            "id": "1610924805582110720",
+            "text": "@Terrypedia @SizweDhlomo @CheckersSA @TheBlackPenPod1 Wait so we are being conditioned slowly into accepting genetically modified food is that what's taking place here because that is absolutely insane."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610922524799287296"
+            ],
+            "id": "1610922524799287296",
+            "text": "@GrantAlvan007 @UNESCO How can you say that when his policies have killed millions\n His failed GM food and drugs have set back humanity and reengineering the world is not up to a little money engineer like gates. Its strange to hear him praised"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610901941193945088"
+            ],
+            "id": "1610901941193945088",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610885574709092353"
+            ],
+            "id": "1610885574709092353",
+            "text": "@FoodLiesOrg They weren't eating massively genetically modified food yet. If they were, it was still in early stages."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610877708971524096"
+            ],
+            "id": "1610877708971524096",
+            "text": "RT @JamesKahongeh_: President William Ruto\u2019s \u201csijamea matiti\u201d example was extreme. \nBut he is RIGHT.\nThe bulk of scientific evidence shows\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610877180837347328"
+            ],
+            "id": "1610877180837347328",
+            "text": "President William Ruto\u2019s \u201csijamea matiti\u201d example was extreme. \nBut he is RIGHT.\nThe bulk of scientific evidence shows that consumption of genetically modified food crops (GMOs) has NO known HARM to human health. \n#RutoSpeaks https://t.co/lEZCRIwpRr"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610849934055731200"
+            ],
+            "id": "1610849934055731200",
+            "text": "@warrior50261765 Corn is a great example.  If not for man, corn would never be what it is today; a source of a tremendous variety of foods and supplements.  Corn is a GM food yet no one seems to realize that.  We would be a world of such less resources without it."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610841712204873733"
+            ],
+            "id": "1610841712204873733",
+            "text": "@pinky99887 @WallStreetSilv @BillGates That man is a ghoulish freak of nature. Forget about genetically modified food. His plans are for all of us to eat crickets! And be happy about it! Total nut case. Melinda was smart to get out of that hideous situation."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610818964195803136"
+            ],
+            "id": "1610818964195803136",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610803883546402816"
+            ],
+            "id": "1610803883546402816",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610797929651965956"
+            ],
+            "id": "1610797929651965956",
+            "text": "It still amazes me to this day, the lack of any pushback to the introduction of genetically modified food. A handful of people protested with 99.9999999% not giving a shit."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610796621490696192"
+            ],
+            "id": "1610796621490696192",
+            "text": "I know ! \ud83d\udc4b\ud83d\udc4b!!! No genetically modified food. No computers. https://t.co/6eHSyddNZn"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610793209004802048"
+            ],
+            "id": "1610793209004802048",
+            "text": "Ignore the propaganda, genetically modified food is safe - President Ruto\nhttps://t.co/KM9rgvI3A1"
+        }
+    ],
+    "meta": {
+        "newest_id": "1611777711495860227",
+        "next_token": "b26v89c19zqg8o3fqk3zcprs6jww7r7xlccut4nlzfwcd",
+        "oldest_id": "1610793209004802048",
+        "result_count": 100
+    }
+}
+{
+    "data": [
+        {
+            "edit_history_tweet_ids": [
+                "1611141700403228672"
+            ],
+            "id": "1611141700403228672",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611132879504900096"
+            ],
+            "id": "1611132879504900096",
+            "text": "@DrAseemMalhotra Wait till imperial master of global hegemony is done \"experimenting\" with the #mRNA molecule added into #bioengineered/genetically modified food. #McDonalds will likely be one of the first fast-food chains to profiteer off  poisoning humanity."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611107804307234816"
+            ],
+            "id": "1611107804307234816",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611106310082252804"
+            ],
+            "id": "1611106310082252804",
+            "text": "RT @awokeb0t: Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611105832451837952"
+            ],
+            "id": "1611105832451837952",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611105421611114496"
+            ],
+            "id": "1611105421611114496",
+            "text": "Genetically modified food has been tied to numerous health ailments such as sterility and infant mortality."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611097884610691072"
+            ],
+            "id": "1611097884610691072",
+            "text": "RT @awokeb0t: Seeds of Deception is a terrifying book about what's really going on with genetically modified food. A must read for anyone w\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611090715538251807"
+            ],
+            "id": "1611090715538251807",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9uK7O"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611070864132567041"
+            ],
+            "id": "1611070864132567041",
+            "text": "'Have I grown breasts?' - Ruto defends GM food.Kenya\u2019s President William Ruto has defended the country\u2019s move to import genetically modified (GM) food, assuring Kenyans that it was safe, https://t.co/SKnwM1vOUz"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611056215622049793"
+            ],
+            "id": "1611056215622049793",
+            "text": "RT @JamesKahongeh_: President William Ruto\u2019s \u201csijamea matiti\u201d example was extreme. \nBut he is RIGHT.\nThe bulk of scientific evidence shows\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611056047438848000"
+            ],
+            "id": "1611056047438848000",
+            "text": "Genetically Modified food safe to eat, says Kenya\u2019s President\u00a0Ruto https://t.co/50jUhZnXaL"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611051824009863168"
+            ],
+            "id": "1611051824009863168",
+            "text": "RT @awokeb0t: Seeds of Deception is a terrifying book about what's really going on with genetically modified food. A must read for anyone w\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611049470359134208"
+            ],
+            "id": "1611049470359134208",
+            "text": "\u2018Have I grown breasts?\u2019 \u2013 Kenya\u2019s President defends import of genetically modified food https://t.co/y3picMRQiJ"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611044932210524160"
+            ],
+            "id": "1611044932210524160",
+            "text": "@DDfarmerette oh hell no, I know in Germany genetically modified food was forbidden, wouldn't this qualify as modified too?"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611034791977033729"
+            ],
+            "id": "1611034791977033729",
+            "text": "In this study we get an understanding of the consumers relationship between emotion and genetically modified food acceptance. https://t.co/fPhXEBfEtT"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611021858916163586"
+            ],
+            "id": "1611021858916163586",
+            "text": "I\u2019m generally pro GM food, but understand skepticism and this is not how you win trust. https://t.co/jGus0XUjjy"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611014760862187520"
+            ],
+            "id": "1611014760862187520",
+            "text": "RT @awokeb0t: Seeds of Deception is a terrifying book about what's really going on with genetically modified food. A must read for anyone w\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611013855676604417"
+            ],
+            "id": "1611013855676604417",
+            "text": "RT @awokeb0t: Seeds of Deception is a terrifying book about what's really going on with genetically modified food. A must read for anyone w\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611012056357937155"
+            ],
+            "id": "1611012056357937155",
+            "text": "Seeds of Deception is a terrifying book about what's really going on with genetically modified food. A must read for anyone who eats. It's an eye-opener that reads like a crime novel, but unfortunately it's all real crime. Easy to read and informative: https://t.co/Gx4Pp0Ra4l #ad https://t.co/uxyFI17uVz"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611007662526959616"
+            ],
+            "id": "1611007662526959616",
+            "text": "@foodfondler Gm Food! An absolute pleasure as always!"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611007604636934150"
+            ],
+            "id": "1611007604636934150",
+            "text": "Americans are kept in the dark about what they are eating and drinking, while 38 different countries in Europe have banned Genetically Modified food. https://t.co/BIS81Kb5EG"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1611000172603133952"
+            ],
+            "id": "1611000172603133952",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610994286534819840"
+            ],
+            "id": "1610994286534819840",
+            "text": "@Annakhait @FoodLiesOrg And genetically modified food as well"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610992402684157952"
+            ],
+            "id": "1610992402684157952",
+            "text": "@THA_STYLIST In my opinion\u2026It\u2019s the genetically modified food that they\u2019re eating. The lack of exercise and no vitamin intake also plays a major role!"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610991596631105536"
+            ],
+            "id": "1610991596631105536",
+            "text": "Humans have consumed genetically modified food for thousands of years. That should not be a cause for alarm. The real question should be whether artificial genetic modification could introduce unseen risks as opposed to natural genetic modification (e.g selective breeding)."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610986652754710528"
+            ],
+            "id": "1610986652754710528",
+            "text": "RT @LDMSinger1830: @FoodLiesOrg They weren't eating massively genetically modified food yet. If they were, it was still in early stages."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610985097075003392"
+            ],
+            "id": "1610985097075003392",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610982271024234496"
+            ],
+            "id": "1610982271024234496",
+            "text": "https://t.co/kLeTM6M519 if the FDA doesn't recommend taking this orally due to side effects, why do they turn a blind eye to the side effects of genetically modified food??"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610979705427210241"
+            ],
+            "id": "1610979705427210241",
+            "text": "It's about human psychology.\nGMO means Genetically Modified Food.\nWhat is the repercussion of swallowing the Genetics?"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610972233849004038"
+            ],
+            "id": "1610972233849004038",
+            "text": "Vandana Shiva now on climate treaties~ article 93 on GM food &amp; land grabs  Q &amp; A ORFC23 #realfarming #agroecology #foodsovereignty The importance on regenerating the soil &amp; preventing the \u201cdivide &amp; rule mentality.\u201d"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610972076994883584"
+            ],
+            "id": "1610972076994883584",
+            "text": "If kenya were to import GMO food, there should be a request to ban use of antibiotic resistance marker genes in GM food, as the risk to human health from antibiotic resistance developing in microorganisms is one of the major public health threats that will be faced.@WilliamsRuto"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610950501717413888"
+            ],
+            "id": "1610950501717413888",
+            "text": "\"..it is\n\u2018scientifically unjustifiable\u2019 to presume that GM foods are safe without rigorous scientific\ntesting and that the \u2018default prediction\u2019 for every GM food should be that the introduction of\na new gene will cause \u2018unanticipated changes\u2019 in the expression of other genes,..\""
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610949829970268160"
+            ],
+            "id": "1610949829970268160",
+            "text": "\"It is often claimed that \u2018trillions of GM meals\u2019 have been eaten in the US with no ill effects.\nHowever, no epidemiological studies in human populations have been carried out to establish\nwhether there are any health effects associated with GM food consumption\""
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610945287845195776"
+            ],
+            "id": "1610945287845195776",
+            "text": "@Kenyans GM foods are big business. If you grow GM food you CANNOT use its seed to propagate food. You are forced to buy seeds from retailers. Read the book SEEDS."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610938766998343680"
+            ],
+            "id": "1610938766998343680",
+            "text": "@CarolAnneHalpi1 @thecoastguy Yes, this genetically modified food that Bill Gates and Prince Charles (why the donated money was from Tony Blair) are interested in feeding the masses.  Has to be funded by grants, it is so good for the masses and our countries and planet."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610934980720398336"
+            ],
+            "id": "1610934980720398336",
+            "text": "The west consume processed food eat organic food. Why should Africa be willing to import Genetically Modified Food (GMO) and pay for it at that!! Wacheni mchezo."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610926297403822082"
+            ],
+            "id": "1610926297403822082",
+            "text": "Scientific authorities around the world, such as the US National Academy of Sciences, United Nations Food and Agriculture Organization ... have analysed thousands of scientific studies and concluded that\u00a0GM food crops do not pose any risk to people, animals or the environment."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610924805582110720"
+            ],
+            "id": "1610924805582110720",
+            "text": "@Terrypedia @SizweDhlomo @CheckersSA @TheBlackPenPod1 Wait so we are being conditioned slowly into accepting genetically modified food is that what's taking place here because that is absolutely insane."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610922524799287296"
+            ],
+            "id": "1610922524799287296",
+            "text": "@GrantAlvan007 @UNESCO How can you say that when his policies have killed millions\n His failed GM food and drugs have set back humanity and reengineering the world is not up to a little money engineer like gates. Its strange to hear him praised"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610901941193945088"
+            ],
+            "id": "1610901941193945088",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610885574709092353"
+            ],
+            "id": "1610885574709092353",
+            "text": "@FoodLiesOrg They weren't eating massively genetically modified food yet. If they were, it was still in early stages."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610877708971524096"
+            ],
+            "id": "1610877708971524096",
+            "text": "RT @JamesKahongeh_: President William Ruto\u2019s \u201csijamea matiti\u201d example was extreme. \nBut he is RIGHT.\nThe bulk of scientific evidence shows\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610877180837347328"
+            ],
+            "id": "1610877180837347328",
+            "text": "President William Ruto\u2019s \u201csijamea matiti\u201d example was extreme. \nBut he is RIGHT.\nThe bulk of scientific evidence shows that consumption of genetically modified food crops (GMOs) has NO known HARM to human health. \n#RutoSpeaks https://t.co/lEZCRIwpRr"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610849934055731200"
+            ],
+            "id": "1610849934055731200",
+            "text": "@warrior50261765 Corn is a great example.  If not for man, corn would never be what it is today; a source of a tremendous variety of foods and supplements.  Corn is a GM food yet no one seems to realize that.  We would be a world of such less resources without it."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610841712204873733"
+            ],
+            "id": "1610841712204873733",
+            "text": "@pinky99887 @WallStreetSilv @BillGates That man is a ghoulish freak of nature. Forget about genetically modified food. His plans are for all of us to eat crickets! And be happy about it! Total nut case. Melinda was smart to get out of that hideous situation."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610818964195803136"
+            ],
+            "id": "1610818964195803136",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610803883546402816"
+            ],
+            "id": "1610803883546402816",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610797929651965956"
+            ],
+            "id": "1610797929651965956",
+            "text": "It still amazes me to this day, the lack of any pushback to the introduction of genetically modified food. A handful of people protested with 99.9999999% not giving a shit."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610796621490696192"
+            ],
+            "id": "1610796621490696192",
+            "text": "I know ! \ud83d\udc4b\ud83d\udc4b!!! No genetically modified food. No computers. https://t.co/6eHSyddNZn"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610793209004802048"
+            ],
+            "id": "1610793209004802048",
+            "text": "Ignore the propaganda, genetically modified food is safe - President Ruto\nhttps://t.co/KM9rgvI3A1"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610792098193711107"
+            ],
+            "id": "1610792098193711107",
+            "text": "@SHIKIBU_Automat @PaigeEtheridge1 To be honest people here but very suspicious of genetically modified food and and a lot of fruit and veg that is fresh still is unmodified but foods that are in packets such as cereals that use grains and corn or oats there is possibly a high chance that is GM."
+        }
+    ],
+    "meta": {
+        "newest_id": "1611141700403228672",
+        "oldest_id": "1610792098193711107",
+        "result_count": 51
+    }
+}
+{
+    "data": [
+        {
+            "edit_history_tweet_ids": [
+                "1610761047270641664"
+            ],
+            "id": "1610761047270641664",
+            "text": "@DavidLyddon @PaigeEtheridge1 About genetically modified food, when it started to be used in Japan there was a lot of critical opinion, but now nobody cares about it.\nAre Japanese people insensitive?\ud83d\ude05\n3/3"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610743959281893376"
+            ],
+            "id": "1610743959281893376",
+            "text": "GMO FOODS!!\n2 Sides to a story \n#Fact #GMO\n#Food #Africa #Kenya #MissUniverse2022\n\nhttps://t.co/hdN1s2PhkN"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610720728936243201"
+            ],
+            "id": "1610720728936243201",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610706856221048832"
+            ],
+            "id": "1610706856221048832",
+            "text": "JohnLewisbb on Gettr: Another example of the global elites take control of our very existence. Genetically modified food does more farm than natural foods... https://t.co/oeZstIhxIm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610688579357007874"
+            ],
+            "id": "1610688579357007874",
+            "text": "This book is worth a read. Without knowing it, people eat genetically modified (GM) food everyday. Those of you who are growing your own food, you need to make sure that you are buying heirloom seeds and then saving the seeds. Those seeds are the new gold. https://t.co/CbUH3YctVa"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610684102864416768"
+            ],
+            "id": "1610684102864416768",
+            "text": "@StandardKenya I don't think I'm ready to deal with the potential consequences of eating genetically modified food. The fear is real #GMOphobia"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610683003579109376"
+            ],
+            "id": "1610683003579109376",
+            "text": "Brand Identity for Genetically Modified Food Processing Plant \u2618\ufe0f\n#AGRA-FOODS\n#Logo\n#Branding\n#Digital_Designs https://t.co/SP5i3xlkJA"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610675738935693312"
+            ],
+            "id": "1610675738935693312",
+            "text": "@RobSchneider The genetically modified food source debacle continues. I'm amazingly sad for the Ethiopian people who are being forced to eat genetically modified chicken eggs"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610669262057652224"
+            ],
+            "id": "1610669262057652224",
+            "text": "@FoodLiesOrg This was not:\n- genetically modified food\n- so many preservatives and additives\n-processed food was not typical, they cooked at home\n-they lived a more puritanical life, but they paid more attention to each other"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610666568811159553"
+            ],
+            "id": "1610666568811159553",
+            "text": "This is why he's buying up all the farms and why they are destroying the rest so we have no choice but to eat his genetically modified food disgusting creature he is he needs stopped https://t.co/mB3GWWxKK1"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610658133025882112"
+            ],
+            "id": "1610658133025882112",
+            "text": "@KansasGOPSlayer @DamayorMookie The glyphosate IS the issue with GMOs.  It\u2019s not genetically modified food anyone has an issue with , it\u2019s the cancer causing elements that they add to it all. It\u2019s literally killing us, and changing human genomes.. that is the entirety of the issue ."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610655430124138499"
+            ],
+            "id": "1610655430124138499",
+            "text": "@gatesfoundation @BillGates Yet, spreading ebola in Africa, and donating genetically modified food for Africans is not a good deed Mr satanic gates. The funny thing is that no matter how much you try to play God around the world eventually, you will get what you deserve. The tides eventually will turn."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610646499838545926"
+            ],
+            "id": "1610646499838545926",
+            "text": "India\u2019s switch to GM food crops hinges on court verdict https://t.co/eRcV3sEI31"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610635250475859970"
+            ],
+            "id": "1610635250475859970",
+            "text": "@DavidCastain gm + food \u2615\ufe0f\ud83e\udd1d"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610628253219266562"
+            ],
+            "id": "1610628253219266562",
+            "text": "@NowTheEndBegins You saw the football player die on the field   now they want to put Vax in our food. They\u2019ve already gave us genetically modified food That our bodies can\u2019t absorb now they\u2019re genetically modifying humans It\u2019s the depopulation of our planet. Agenda 2030"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610627998650175489"
+            ],
+            "id": "1610627998650175489",
+            "text": "@foodfondler Gm food"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610615087425015811"
+            ],
+            "id": "1610615087425015811",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610614376280596482"
+            ],
+            "id": "1610614376280596482",
+            "text": "@waltjack71 You are aware that all retail buyers look constantly for cheap rubbish food regardless whether they come from. They lowered massively their quality  standards especially after Brexit.They introduced GM food in the shelves along with even more rubbish high end product ranges."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610599970608144385"
+            ],
+            "id": "1610599970608144385",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610596209357639680"
+            ],
+            "id": "1610596209357639680",
+            "text": "GMO produce (unlabled) &lt;--&gt; Zika Babies\n(it affects fertility)\n\nGM corn set to stop man spreading his seed\nhttps://t.co/DNEnxzAq91 https://t.co/KoPFyNGFM6"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610594840168857601"
+            ],
+            "id": "1610594840168857601",
+            "text": "@jakeshieldsajj @againstgrmrs yep... Trans is to me like COMPLETELY GENETICALLY MODIFIED FOOD; GROWN ON FERTILIZED DIRT AND HEAVILY COVERED IN PESTICIDES, THEN IRRADIATED  AND COLORED FOR MARKETING.. What ever happened to US humans being Organic Humans. Like our xx or xy chromosome IS ?.."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610574352679829507"
+            ],
+            "id": "1610574352679829507",
+            "text": "@thecoastguy @loladog1206 Dear Bill I prefer non genetically modified food. Seems Mr Gates has invested heavily in the vaccine market."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610548916667162624"
+            ],
+            "id": "1610548916667162624",
+            "text": "@TM_Lekubu @mshengulala @WonderMahlobo Mxm, the frequency used to be blamed to genetically modified food before."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610547180502241281"
+            ],
+            "id": "1610547180502241281",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9uK7O"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610517001260388352"
+            ],
+            "id": "1610517001260388352",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610477042591465472"
+            ],
+            "id": "1610477042591465472",
+            "text": "Genetically modified food brings more benefits than harm.\uff08\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306f\u5bb3\u3088\u308a\u5229\u76ca\u3092\u3082\u305f\u3089\u3059\u3002\uff09"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610462826375835649"
+            ],
+            "id": "1610462826375835649",
+            "text": "@RobSchneider If you don\u2019t think genetically modified foods are not already in most foods available at the supermarket, you have no clue.\nHawaii voted to require genetically modified food be labeled, the referendum was struck down by a federal judge. \nIt\u2019s everywhere\nGo Monsanto! #GoGMO"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610445945568899072"
+            ],
+            "id": "1610445945568899072",
+            "text": "Bill Gates and these Genetic Freaks keep screwing with our food and we wonder where all these rare diseases come from?!? Record high heart attacks, cancer, deformities, etc etc. What do you think happens when we consume GENETICALLY MODIFIED food?!?! https://t.co/sab2ij1BwH"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610445436980187136"
+            ],
+            "id": "1610445436980187136",
+            "text": "@thecoastguy There goes our genetically modified food chain."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610443826832834561"
+            ],
+            "id": "1610443826832834561",
+            "text": "@emmakennytv @thecoastguy Hes the biggest shareholder of Monsanto the biggest GM food maker and GM seed maker in the world , and hes buying up swaths of farm land to control the produce so we eat bugs"
+        }
+    ],
+    "meta": {
+        "newest_id": "1610761047270641664",
+        "oldest_id": "1610443826832834561",
+        "result_count": 30
+    }
+}
+{
+    "data": [
+        {
+            "edit_history_tweet_ids": [
+                "1610421486094802950"
+            ],
+            "id": "1610421486094802950",
+            "text": "@DrLoupis Of course he does! More money in his pocket!! Don't we already know that genetically modified food is dangerous to our bodies?"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610411330502275072"
+            ],
+            "id": "1610411330502275072",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610407717964861440"
+            ],
+            "id": "1610407717964861440",
+            "text": "@BlackCalvinist @drboycewatkins1 Genetically modified food is a MAJOR problem. I can\u2019t believe it doesn\u2019t get more attention."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610396194257408008"
+            ],
+            "id": "1610396194257408008",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610364427479711745"
+            ],
+            "id": "1610364427479711745",
+            "text": "Listen, I, as much as the next person, am not a fan of the idea of how genetically modified food could affect us, but people really need to understand what the fuck a vaccine even is."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610360556099338240"
+            ],
+            "id": "1610360556099338240",
+            "text": "You will own nothing and be happy eating genetically modified food sponsored by yours truly https://t.co/zcMpkr14yY"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610358791291158528"
+            ],
+            "id": "1610358791291158528",
+            "text": "I'm against #GMH genetically modified humans &amp; \nI'm against #GMF genetically modified food. \nLittle god-men are destroying human-kind. \n#EvilBigPharma and it's cohorts need to be terminated. \n1.3.23"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610358340302917632"
+            ],
+            "id": "1610358340302917632",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3Cq2IZ"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610339659166502914"
+            ],
+            "id": "1610339659166502914",
+            "text": "gm (food) mfers!"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610335763320958977"
+            ],
+            "id": "1610335763320958977",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610325656948314112"
+            ],
+            "id": "1610325656948314112",
+            "text": "RT @Warriorlily13: @StringReveals @PMOIndia @myogioffice @AmitShah Also check Dr Vandana Shiva's videos on YT or her books about BG Foundat\u2026"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610322585719558150"
+            ],
+            "id": "1610322585719558150",
+            "text": "@BjornLomborg @jordanbpeterson Genetically modified food and our water source!!"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610275789727223810"
+            ],
+            "id": "1610275789727223810",
+            "text": "Americans are kept in the dark about what they are eating and drinking, while 38 different countries in Europe have banned Genetically Modified food.\n\n#trumptrains #trump #trumpwon #truthtrains #truthsocial #truth #god #herostruthtrain #epsteindidntkillhimself #woco https://t.co/DXzqegzvX4"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610263530200272896"
+            ],
+            "id": "1610263530200272896",
+            "text": "I do not consent to distribution of genetically modified food."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610262308797976577"
+            ],
+            "id": "1610262308797976577",
+            "text": "@Ndi_Muvenda_ I blame Genetically Modified Food\ud83e\udd23\ud83e\udd23"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610252108414226439"
+            ],
+            "id": "1610252108414226439",
+            "text": "GMO produce (unlabeled) &lt;--&gt; Zika Babies\nIt affects fertility...\n\nGM corn set to stop man spreading his seed\nhttps://t.co/DNEnxzAq91 https://t.co/0qDghfMWVA"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610221280774746120"
+            ],
+            "id": "1610221280774746120",
+            "text": "@iamchillpill gm \nfood comes into mind haha"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610218323437838336"
+            ],
+            "id": "1610218323437838336",
+            "text": "GM food toxins found in the blood of 93% of unborn babies: https://t.co/ERdwolBJ6E"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610207364216680450"
+            ],
+            "id": "1610207364216680450",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610192305247621120"
+            ],
+            "id": "1610192305247621120",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610184243044356097"
+            ],
+            "id": "1610184243044356097",
+            "text": "@engineers_feed I think genetically modified food"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610131894636777474"
+            ],
+            "id": "1610131894636777474",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610093591661084673"
+            ],
+            "id": "1610093591661084673",
+            "text": "The GEAC approval nixed earlier recommendations of three high-level expert committees that warned against the use of herbicide-tolerant crops in Indian conditions.  https://t.co/YFiPhSuFdQ https://t.co/6kIRVDPgtv"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610072883350347776"
+            ],
+            "id": "1610072883350347776",
+            "text": "RT @irri: \ud83c\udf3eWhat causes the many of the doubts and fears linked to genetically modified food (GMO)?\n\nIRRI\u2019s Martijn Pakker speaks about food\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1610421486094802950",
+        "oldest_id": "1610072883350347776",
+        "result_count": 24
+    }
+}
+{
+    "data": [
+        {
+            "edit_history_tweet_ids": [
+                "1610026159940710401"
+            ],
+            "id": "1610026159940710401",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610018918587826177"
+            ],
+            "id": "1610018918587826177",
+            "text": "@ConceptualJames Genetically engineered food\u2026nothing has ever been controversial about that \ud83e\udd74\n\nOh, what\u2019s in the Omnibus Bill about \u201ccultivated\u201d (because it sounds better than \u201cgenetically modified\u201d) food?"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1610011091228307457"
+            ],
+            "id": "1610011091228307457",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609999803177660417"
+            ],
+            "id": "1609999803177660417",
+            "text": "GM mustard is regarded as a pioneering food crop in India \u2013 it would open the floodgates for many other GM food crops that are in the pipeline under a veil of secrecy, including wheat, rice, brinjal and chickpea. https://t.co/ctkbhnSzGN @PMOIndia"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609953359825408004"
+            ],
+            "id": "1609953359825408004",
+            "text": "#GM Food portal opens soon! \n\n#Boneappetit #tastybones https://t.co/HovAKPOm11"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609950680550342656"
+            ],
+            "id": "1609950680550342656",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609930607945039873"
+            ],
+            "id": "1609930607945039873",
+            "text": "@turtleman73 @MadPatriot65 @PeterSweden7 Certainly I agree with you but maybe that wasn't affecting it to the same degree as something they formulate and inject.  I think all should be scrutinized as well as genetically modified food...all of it. They hide so much, it's despicable."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609926279872090113"
+            ],
+            "id": "1609926279872090113",
+            "text": "@andreas_glarner Gr\u00fcn ist Graus. Ungebildet, unkonstant, verlogen, planlos, ferngesteuert und inzwischen sogar f\u00fcr GM food und auf der Seite der big Pharma. Mir graust es vor dieser aufgedunsen Diktatur"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609892793601622016"
+            ],
+            "id": "1609892793601622016",
+            "text": "Would you eat genetically modified food not many would, but we would let government talk us into putting a genetic Covid injection into our body's one that has never been tested properly one that can cause cancers and blood clots. We must be Fucxing Mad to let our government."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609873205170438145"
+            ],
+            "id": "1609873205170438145",
+            "text": "#Biotechnology  is widely used in food industries to produce different food products such as genetically modified #Food , to enhance the #TASTE , to enhance the yield, to increase the shelf life and to improve the #nutritive value.\nhttps://t.co/ylrzxgJvhR\n@africanjfoodsc2"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609873095237554188"
+            ],
+            "id": "1609873095237554188",
+            "text": "\ud83c\uddee\ud83c\uddf3 India\u2019s #GMO mustard: An increasingly bitter taste. GM mustard would open the floodgates for many other GM food crops in the pipeline under a veil of secrecy, including wheat, rice, brinjal and chickpea. That's why they want to close down debate! https://t.co/hHspTQ4AfR"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609871446305562625"
+            ],
+            "id": "1609871446305562625",
+            "text": "This a very important question:\n\nWhat is your opinion on Genetically Modified food crops?"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609862068114718720"
+            ],
+            "id": "1609862068114718720",
+            "text": "@MarcusYafeelus @elonmusk @robinmonotti do you eat corn ? \nguess who...\ud83d\ude1e \n\"GM corn set to stop man spreading his seed | GM | The Guardian\" https://t.co/JmE94OTWgH"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609822403273854984"
+            ],
+            "id": "1609822403273854984",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609808581532192771"
+            ],
+            "id": "1609808581532192771",
+            "text": "AYURVEDASHREE Alum Powder 200 Gm | Food Grade | Granulated Powdered Alum | Food Preservative Preserving Pickles | phitkari | RNJBR4B\n\nhttps://t.co/EWCUlZQm6U https://t.co/43sQbXnpvm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609807321244536833"
+            ],
+            "id": "1609807321244536833",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609792963345022977"
+            ],
+            "id": "1609792963345022977",
+            "text": "@tanvig11 This is a reality because of hectic lifestyle, stress, adulterated and genetically modified food and lack of exercise."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609746984528936961"
+            ],
+            "id": "1609746984528936961",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609723665079488515"
+            ],
+            "id": "1609723665079488515",
+            "text": "Nashik Engineering Cluster - Senior Professional (DGM/ GM - Food Testing Lab)  8-12 years https://t.co/F4DmSQp5gv"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609721368945328134"
+            ],
+            "id": "1609721368945328134",
+            "text": "@robinmonotti Wait Bill Gates? The guy who pushed for genetically modified food as the way to feed the world? Prior to discovering how profitable vaccines \ud83d\udc89 could be of course.\nWho do these people think they are? \nBtw he\u2019s not an MD,  biologist and I doubt he could grow a house plant."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609718909875245061"
+            ],
+            "id": "1609718909875245061",
+            "text": "The first time I learned about GMO food was at the Blackburn Center at Howard University in 1997\n\n (1)GM Food like... Salmon ..Scientist Working on(GMO)&amp;Vaccine Injected Tomatoes &amp; Bananas..then\ud83d\udc47\ud83c\udfff\n\n(2)GM Nature ...Like Mosquitoes ..Trees etc\n\nNow its mRNA  Vaccines Nano &amp; CRISPR"
+        }
+    ],
+    "meta": {
+        "newest_id": "1610026159940710401",
+        "oldest_id": "1609718909875245061",
+        "result_count": 21
+    }
+}
+{
+    "data": [
+        {
+            "edit_history_tweet_ids": [
+                "1609680516969631746"
+            ],
+            "id": "1609680516969631746",
+            "text": "GM food for GM people. https://t.co/82PbLd87gp"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609670674293075968"
+            ],
+            "id": "1609670674293075968",
+            "text": "To understand things it is helpful to look at extremes.\n\nWe know that if hydrogen cyanide is inhaled, the person will die in seconds. Casuality is clear.\n\nIf someone eats GM food no such thing happens. Even 30 years later they are still alive.\n\n..."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609641166970171392"
+            ],
+            "id": "1609641166970171392",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609638519424831488"
+            ],
+            "id": "1609638519424831488",
+            "text": "Evaluation of adverse effects/events of genetically modified food consumption: a systematic review of animal and human studies | Environmental Sciences Europe | Full Text https://t.co/4LAgLnoFea"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609633291300372482"
+            ],
+            "id": "1609633291300372482",
+            "text": "@billie4congress @POTUS Have you researched what is in the #Vaccines yet? Millions of people #Global got sick after #vaccines check #Adjuvants Bill gates took over #Health #Medicine &amp; #Gm food cause #Disease  &amp; break in #Dna = #immune disorders \ud83d\ude33\ud83e\udda0\ud83e\udd2e\ud83d\ude31 needs yoghurt &amp; #detox #Food is best #medicine https://t.co/Mr40cm9DNu"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609629630402793472"
+            ],
+            "id": "1609629630402793472",
+            "text": "@FoodCoDAO Gm food \ud83d\udc9c"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609627000645505025"
+            ],
+            "id": "1609627000645505025",
+            "text": "@mikehesseler @60Minutes Look to the pesticide glycophate and how Monsanto genetically modified food crops to be piled on with this stuff\u2026.over the last 50 years"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609626061167554560"
+            ],
+            "id": "1609626061167554560",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609624814054150145"
+            ],
+            "id": "1609624814054150145",
+            "text": "@foodmfers gm food mfers, full agree!!\ud83c\udf49\ud83c\udf4a\ud83c\udf53\ud83e\udec2\u2764\ufe0f"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609610719900860416"
+            ],
+            "id": "1609610719900860416",
+            "text": "@sobriquet42 @WholeMarsBlog I say it all the time! 50's were hands down the best in history for style &amp; design! Just absolute beautiful vehicles! Why doesn't GM come out with a modern 57 Bel Air, 57 pickup, 57 Corvette etc. GM, Food, etc. Made some amazing products back then!"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609598649683640320"
+            ],
+            "id": "1609598649683640320",
+            "text": "Genetically Modified Food (Global Viewpoints) VIKVWUA\n\nhttps://t.co/cxfhF87NQf https://t.co/ApVZHLQWqZ"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609574495114887168"
+            ],
+            "id": "1609574495114887168",
+            "text": "@NetGlazed GM !food"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609565761223405569"
+            ],
+            "id": "1609565761223405569",
+            "text": "How to get to know the true character of genetically modified food \u3010Coca-Cola\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b3\u30ab\u30b3\u30fc\u30e9\u7de8\u3011\nhttps://t.co/MICB3CqAyx"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609556110389948417"
+            ],
+            "id": "1609556110389948417",
+            "text": "@AIOW_io gm! food is the best \ud83d\ude0b"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609553350856417280"
+            ],
+            "id": "1609553350856417280",
+            "text": "@sharonshazk Basically genetically modified food is naads https://t.co/IJxDniYnHl"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609525230342471682"
+            ],
+            "id": "1609525230342471682",
+            "text": "https://t.co/AH2q1bJoBP"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609522286650093570"
+            ],
+            "id": "1609522286650093570",
+            "text": "@Jikkyleaks @DrLizaMD @TexasLindsay_ @Babydoll921961 @JanJekielek @drdrew @MarioNawfal @TaraBull808 @DrAseemMalhotra @thackerpd 2/ wtaf?! https://t.co/mzN3C1eHxG https://t.co/xVVQRxRXss"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609513556063703042"
+            ],
+            "id": "1609513556063703042",
+            "text": "@Theblackfemini3 He's coming for your farm land, so he can grow GM food that makes you sick, so you need his meds..."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609454636091465728"
+            ],
+            "id": "1609454636091465728",
+            "text": "Dont lobby for GM food here https://t.co/ihi0Kb3b5o"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609438450822053894"
+            ],
+            "id": "1609438450822053894",
+            "text": "@silkweaver7 @carl_jurassic https://t.co/no0jjztCyI"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609437299754008577"
+            ],
+            "id": "1609437299754008577",
+            "text": "How to get to know the true character of genetically modified food\u3010Del Monte\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30c7\u30eb\u30e2\u30f3\u30c6\u7de8\u3011\nhttps://t.co/xVzwI9vhXm"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609424795560546305"
+            ],
+            "id": "1609424795560546305",
+            "text": "Genetically Modified Organisms: Opening Pandora's Box with Genetically Modified Food MENP0SM\n\nhttps://t.co/iEFQotF5kA https://t.co/ouviMhXVam"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609422194941251584"
+            ],
+            "id": "1609422194941251584",
+            "text": "How to get to know the true character of genetically modified food\u3010Kellogg\u3011\n\u907a\u4f1d\u5b50\u7d44\u307f\u63db\u3048\u98df\u54c1\u306e\u6b63\u4f53\u3092\u77e5\u308b\u65b9\u6cd5\u3010\u30b1\u30ed\u30c3\u30b0\u7de8\u3011\nhttps://t.co/b3Us9PwMpo"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609420490669543424"
+            ],
+            "id": "1609420490669543424",
+            "text": "@StringReveals @PMOIndia @myogioffice @AmitShah Also check Dr Vandana Shiva's videos on YT or her books about BG Foundation, Monsanto and Genetically Modified food."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1609412608670720000"
+            ],
+            "id": "1609412608670720000",
+            "text": "GM Food on Trial: Testing European Democracy (Genetics and Society) G2RF4LX\n\nhttps://t.co/3vqw2Ijt3S https://t.co/J5aGJbVBMv"
+        }
+    ],
+    "meta": {
+        "newest_id": "1609680516969631746",
+        "oldest_id": "1609412608670720000",
+        "result_count": 25
+    }
+}
